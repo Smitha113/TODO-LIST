@@ -1,5 +1,6 @@
 # TODO-LIST
 Creating a ToDo list application with CRUD operations using MySQL, PHP, HTML, and CSS.
+
 STEP 1:COPY THE CODE IN VISUAL STUDIO.
 
 STEP 2:Start your Apache and MySQL modlue using XAMPP.
